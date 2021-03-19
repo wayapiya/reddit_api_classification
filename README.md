@@ -1,7 +1,7 @@
 ### Overview
 
 For this project, two different subreddit APIs will be used to create binary classification models to classify which subreddit a given post came from. We seek to identifies features that most improve the accuracy of the models and limitations the models may have.
-
+---
 ### Process
 
 - Gather and prepare your data using the `requests` library.
@@ -22,3 +22,7 @@ For this project, two different subreddit APIs will be used to create binary cla
 1. Any discussion that are seldom to occur are likely to be predicted into the wrong category.
 2. Short texts have higher chances of being predicted incorrectly
 3. Model is sensitive to spelling errors.
+
+### Conclusion
+
+After creating the best model, which has high accuracy and low bias on False predictions, we can conclude that Smite reddit users are most interested in god, conquest, tiamat, item, tp (Teleport), and jungle. In the other hand, Heroes of the storm are most interested in hero, talent, aram, blizzard, qm (Quick Match), and sl (Storm League)
