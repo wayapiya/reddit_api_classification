@@ -6,7 +6,7 @@ For this project, two different subreddit APIs will be used to create binary cla
 
 - Gather and prepare your data using the `requests` library.
 - Create and compare models. (Naive Bayes, Logistic, KNN)
-- Record the summary of the results you found.
+- Record the summary of the results I've found.
 
 ### My Analysis
 
